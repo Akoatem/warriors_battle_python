@@ -1,0 +1,1 @@
+This is a game of two warriors issuing random number to detemind their health if they will die or not and which one emerge victorious
